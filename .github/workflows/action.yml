@@ -1,4 +1,4 @@
-name: Class Attender
+name: Class Attendee
 
 on:
   schedule:

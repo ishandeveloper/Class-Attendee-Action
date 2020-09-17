@@ -1,6 +1,6 @@
 <center>
 <img src="./Images/hero.png"><br>
-<h3> Class Attender Action</h3>
+<h3> Class Attendee Action</h3>
 <hr>
 </center>
 

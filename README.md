@@ -7,7 +7,7 @@
 This repository is dedicated to a GitHub Action for running a cron job, every morning at 11 AM to attend my super boring **OOPS** Classes.
 
 <pre>
-THIS REPOSITORY WAS CREATED AS A PART OF ACTIONS HACKATHON HOSTED BY DEV.TO AND GITHUB,
+THIS REPOSITORY WAS CREATED AS A PART OF ACTIONS HACKATHON HOSTED BY DEV.TO AND GITHUB, <a href="https://dev.to/ishandeveloper/class-attendee-action-2c8c">VIEW THE SUBMISSION HERE</a>
 </pre>
 
 ### SECRETS
